@@ -50,3 +50,7 @@ Kontomapping, egne nøgletal og andre opsætninger, der er særlige for din virk
 ## Udvikling
 
 Mappen under `skills/` er eneste kilde til pakkernes indhold. `scripts/pak.sh` bygger én ZIP pr. skill i `dist/`.
+
+## Licens
+
+[MIT](LICENSE).
